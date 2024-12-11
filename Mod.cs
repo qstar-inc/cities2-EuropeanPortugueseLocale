@@ -1,17 +1,11 @@
-﻿using Colossal;
-using Colossal.IO.AssetDatabase;
-using Colossal.Localization;
-using Colossal.Logging;
+﻿using Colossal.Logging;
 using Colossal.PSI.Environment;
-using Game;
 using Game.Modding;
+using Game.PSI;
 using Game.SceneFlow;
-using Game.UI.Localization;
-using System.Collections.Generic;
-using System;
+using Game;
 using System.IO;
 using UnityEngine;
-using Game.PSI;
 
 namespace EuropeanPortugueseLocale
 {
